@@ -1,0 +1,33 @@
+'Rock', 'Paper', 'Scissor'
+
+
+if('Player1 selects Rock'):
+    ('Player2 Selects Paper');
+print('Player2 Wins the round');
+if else:
+print('Player1 wins the round');
+
+if('Player1 selects scissor'):
+    ('Player2 selects Paper');
+print('Player1 wins the round');
+if else:
+print('Player2 wins the round');
+
+if('Player1 selects scissor'):
+    ('Player2 selects Rock');
+print('Player2 wins the round');
+if else:
+print('Player1 wins the round');
+
+if('Player1 selects scissor'):
+    ('Player2 selects paper');
+print('Player1 wins the round');
+if else:
+print('Player2 wins the round');
+
+if('Player1 selects Paper'):
+    ('Player2 selects Rock');
+print('Player1 wins the round');
+if else:
+print('Player2 wins the round');
+    
